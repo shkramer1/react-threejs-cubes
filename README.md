@@ -27,3 +27,5 @@ Material UI is used for styling.
 ## Example
 
 ![cubes](https://user-images.githubusercontent.com/87050550/185448945-c274e3fc-03f6-45d3-a534-a259064c3920.PNG)
+
+This repository was created by [Shan Codes](https://shancodes.com/)
